@@ -1,3 +1,0 @@
-numerator: ~ x2
-denominator: ~ x2 + x1
-model_type: logistic_regression
